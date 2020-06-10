@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Arrays;
 
-public class test5 {
+public class GradeEvaluation {
 
     static String author = "Tim Eggers, 5309269";
     static int const1 = 76;
