@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class Notenauswertung {
 
-    static String author = "Tim Eggers, 5309269";
+    static String author = "T. E., *******";
 
     // constants used to build the html document (changes can here be made globally)
     static int posx1 = 76;
